@@ -1,0 +1,971 @@
+1
+00:00:00,600 --> 00:00:04,320
+In 1983, the American video game industry collapsed.
+
+2
+00:00:04,600 --> 00:00:09,556
+In just two years, home video game revenue fell by roughly ninety-seven percent.
+
+3
+00:00:09,836 --> 00:00:12,036
+Retailers swore off games entirely.
+
+4
+00:00:12,316 --> 00:00:15,153
+Atari, the company that had defined the medium,
+
+5
+00:00:15,153 --> 00:00:19,377
+hauled truckloads of unsold cartridges to a landfill in the New Mexico
+
+6
+00:00:19,377 --> 00:00:20,765
+desert and buried them.
+
+7
+00:00:21,515 --> 00:00:25,134
+Into that wreckage walked a century-old Japanese playing card company.
+
+8
+00:00:25,414 --> 00:00:28,943
+Four decades later, look at who else was making game hardware back then.
+
+9
+00:00:29,223 --> 00:00:29,735
+Atari.
+
+10
+00:00:30,015 --> 00:00:30,548
+Coleco.
+
+11
+00:00:30,828 --> 00:00:31,310
+Mattel.
+
+12
+00:00:31,590 --> 00:00:32,380
+Magnavox.
+
+13
+00:00:32,660 --> 00:00:33,272
+NEC.
+
+14
+00:00:33,552 --> 00:00:34,208
+SNK.
+
+15
+00:00:34,488 --> 00:00:35,183
+Panasonic.
+
+16
+00:00:35,463 --> 00:00:35,961
+Sega.
+
+17
+00:00:36,241 --> 00:00:38,509
+Every one of them is out of the console business.
+
+18
+00:00:38,789 --> 00:00:40,019
+Nintendo is still here.
+
+19
+00:00:40,299 --> 00:00:41,568
+And it isn't just surviving.
+
+20
+00:00:41,848 --> 00:00:45,523
+Its last console sold more than a hundred and fifty million units,
+
+21
+00:00:45,523 --> 00:00:49,087
+and its new one is the fastest-selling machine it has ever made.
+
+22
+00:00:49,837 --> 00:00:52,080
+So here's a question that sounds strange,
+
+23
+00:00:52,080 --> 00:00:53,337
+given all that success.
+
+24
+00:00:53,617 --> 00:00:55,001
+Why hasn't Nintendo died?
+
+25
+00:00:55,281 --> 00:00:56,471
+Because it really should have.
+
+26
+00:00:56,751 --> 00:00:57,605
+Several times.
+
+27
+00:00:58,355 --> 00:01:03,438
+The Virtual Boy, a red-and-black headache machine that sold well under a million units.
+
+28
+00:01:03,718 --> 00:01:08,512
+The Nintendo 64, which bet on cartridges and lost Final Fantasy to Sony.
+
+29
+00:01:08,792 --> 00:01:11,182
+The GameCube, which finished a distant third.
+
+30
+00:01:11,462 --> 00:01:16,376
+The 3DS, whose launch went so badly its price was slashed within six months.
+
+31
+00:01:16,656 --> 00:01:20,220
+And the Wii U, which sold just thirteen and a half million
+
+32
+00:01:20,220 --> 00:01:23,967
+units, as Nintendo posted its first annual losses in decades.
+
+33
+00:01:24,247 --> 00:01:27,004
+For a lot of companies, any one of those would have been fatal.
+
+34
+00:01:27,754 --> 00:01:29,535
+The usual answer is: Mario.
+
+35
+00:01:29,815 --> 00:01:31,742
+Great characters, great games.
+
+36
+00:01:32,022 --> 00:01:33,809
+That's true, but it isn't enough.
+
+37
+00:01:34,089 --> 00:01:35,027
+Sega had Sonic.
+
+38
+00:01:35,307 --> 00:01:37,584
+Atari had the most famous brand in the world.
+
+39
+00:01:37,864 --> 00:01:40,380
+Great games explain why Nintendo succeeds.
+
+40
+00:01:40,660 --> 00:01:43,027
+They don't explain why it survives its failures.
+
+41
+00:01:43,307 --> 00:01:45,868
+For that, you have to look at how the company is built.
+
+42
+00:01:46,148 --> 00:01:48,072
+And when you do, four things stand out.
+
+43
+00:01:48,822 --> 00:01:49,280
+Part one.
+
+44
+00:01:49,560 --> 00:01:51,225
+Nintendo is a toy company.
+
+45
+00:01:52,575 --> 00:01:56,770
+Nintendo was founded in Kyoto in 1889 by Fusajiro Yamauchi,
+
+46
+00:01:56,770 --> 00:01:59,969
+to make hanafuda, hand-painted playing cards.
+
+47
+00:02:00,249 --> 00:02:01,852
+For much of the twentieth century,
+
+48
+00:02:01,852 --> 00:02:03,925
+it was a company searching for a second act.
+
+49
+00:02:04,205 --> 00:02:09,433
+Under Fusajiro's great-grandson, Hiroshi Yamauchi, it tried a taxi service,
+
+50
+00:02:09,433 --> 00:02:12,430
+instant rice, and, reportedly, love hotels.
+
+51
+00:02:12,710 --> 00:02:13,827
+Almost none of it worked.
+
+52
+00:02:14,577 --> 00:02:15,674
+What did work was toys.
+
+53
+00:02:15,954 --> 00:02:21,255
+In 1966, a young maintenance engineer named Gunpei Yokoi built an extending
+
+54
+00:02:21,255 --> 00:02:23,305
+grabber arm to amuse himself.
+
+55
+00:02:23,585 --> 00:02:26,644
+Yamauchi saw it, and told him to turn it into a product.
+
+56
+00:02:26,924 --> 00:02:29,400
+The Ultra Hand sold over a million units.
+
+57
+00:02:29,680 --> 00:02:32,105
+Yokoi was moved into product development,
+
+58
+00:02:32,105 --> 00:02:34,590
+and Nintendo quietly became a toy company.
+
+59
+00:02:35,340 --> 00:02:36,947
+That matters more than it sounds.
+
+60
+00:02:37,227 --> 00:02:39,703
+A toy company doesn't sell specifications.
+
+61
+00:02:39,983 --> 00:02:42,526
+Nobody buys a yo-yo because of its processor.
+
+62
+00:02:42,806 --> 00:02:45,156
+A toy has to be understood in seconds,
+
+63
+00:02:45,156 --> 00:02:46,701
+and be fun in your hands.
+
+64
+00:02:46,981 --> 00:02:50,028
+That instinct, fun first, explained by touch,
+
+65
+00:02:50,028 --> 00:02:53,007
+runs straight through the NES, the Game Boy,
+
+66
+00:02:53,007 --> 00:02:55,173
+the Wii Remote, and the Joy-Con.
+
+67
+00:02:55,923 --> 00:02:59,214
+When Nintendo brought the NES to America after the crash,
+
+68
+00:02:59,214 --> 00:03:01,985
+retailers wanted nothing to do with video games.
+
+69
+00:03:02,265 --> 00:03:03,814
+So Nintendo didn't call it one.
+
+70
+00:03:04,094 --> 00:03:06,258
+It was the Nintendo Entertainment System,
+
+71
+00:03:06,258 --> 00:03:09,108
+and it came with a little plastic robot called R.O.B.,
+
+72
+00:03:09,108 --> 00:03:11,483
+so that wary stores would shelve it as a toy.
+
+73
+00:03:11,763 --> 00:03:12,300
+It worked.
+
+74
+00:03:12,580 --> 00:03:17,221
+The NES sold over sixty million units and revived the entire industry.
+
+75
+00:03:17,971 --> 00:03:18,515
+Part two.
+
+76
+00:03:18,795 --> 00:03:20,974
+Lateral thinking with withered technology.
+
+77
+00:03:22,324 --> 00:03:24,868
+Yokoi eventually gave his philosophy a name.
+
+78
+00:03:25,148 --> 00:03:27,326
+Lateral thinking with withered technology.
+
+79
+00:03:27,606 --> 00:03:31,134
+Withered means mature: cheap, reliable, well understood.
+
+80
+00:03:31,414 --> 00:03:34,300
+Lateral means using it in a way nobody expected.
+
+81
+00:03:34,580 --> 00:03:38,246
+The Game and Watch came from Yokoi watching a bored businessman on
+
+82
+00:03:38,246 --> 00:03:40,634
+a bullet train, fiddling with a calculator.
+
+83
+00:03:40,914 --> 00:03:43,777
+Cheap screens, calculator chips, a simple game.
+
+84
+00:03:44,057 --> 00:03:46,057
+It sold over forty million units.
+
+85
+00:03:46,807 --> 00:03:50,438
+The Game Boy, in 1989, was the purest example.
+
+86
+00:03:50,718 --> 00:03:53,296
+Its screen was a murky, greenish monochrome.
+
+87
+00:03:53,576 --> 00:03:57,202
+Its rivals, the Atari Lynx and later the Sega Game Gear,
+
+88
+00:03:57,202 --> 00:03:58,885
+had backlit color screens.
+
+89
+00:03:59,165 --> 00:04:01,716
+They were more advanced in every way you could measure.
+
+90
+00:04:01,996 --> 00:04:05,168
+They also ate through six double-A batteries in a few hours.
+
+91
+00:04:05,448 --> 00:04:08,465
+The Game Boy ran for well over ten hours on four,
+
+92
+00:04:08,465 --> 00:04:10,435
+cost less, and came with Tetris.
+
+93
+00:04:10,715 --> 00:04:14,774
+With the Game Boy Color, it sold nearly a hundred and nineteen million units.
+
+94
+00:04:15,054 --> 00:04:17,512
+The Lynx and the Game Gear are footnotes.
+
+95
+00:04:18,262 --> 00:04:19,538
+The pattern keeps repeating.
+
+96
+00:04:19,818 --> 00:04:24,351
+In the mid-2000s, Sony and Microsoft were racing toward high definition.
+
+97
+00:04:24,631 --> 00:04:27,481
+Nintendo's Wii was barely more powerful than the GameCube.
+
+98
+00:04:27,761 --> 00:04:31,848
+What it had was a motion controller your grandmother could understand in ten seconds.
+
+99
+00:04:32,128 --> 00:04:34,424
+It sold more than a hundred million units,
+
+100
+00:04:34,424 --> 00:04:36,283
+and turned up in retirement homes.
+
+101
+00:04:36,563 --> 00:04:38,541
+The DS did the same for handhelds.
+
+102
+00:04:38,821 --> 00:04:42,186
+Two screens, a stylus, and games like Brain Age that sold to
+
+103
+00:04:42,186 --> 00:04:44,766
+people who had never called themselves gamers.
+
+104
+00:04:45,046 --> 00:04:47,094
+A hundred and fifty-four million units.
+
+105
+00:04:47,844 --> 00:04:49,457
+The strategic logic is simple.
+
+106
+00:04:49,737 --> 00:04:53,122
+If you compete on power, you're in a spending war with companies
+
+107
+00:04:53,122 --> 00:04:56,295
+far bigger than you, and the winner is whoever can afford to
+
+108
+00:04:56,295 --> 00:04:57,511
+lose money the longest.
+
+109
+00:04:57,791 --> 00:04:59,767
+If you compete on a new way to play,
+
+110
+00:04:59,767 --> 00:05:03,610
+there's nobody to outspend you, because nobody else is in that market.
+
+111
+00:05:04,360 --> 00:05:04,985
+Part three.
+
+112
+00:05:05,265 --> 00:05:06,326
+The games are the product.
+
+113
+00:05:07,676 --> 00:05:11,386
+At its core, Nintendo is a software company that happens to build
+
+114
+00:05:11,386 --> 00:05:13,213
+the machines its software needs.
+
+115
+00:05:13,493 --> 00:05:17,229
+Shigeru Miyamoto joined as a staff artist in 1977.
+
+116
+00:05:17,509 --> 00:05:22,432
+One of his first big assignments was to rescue a warehouse of unsold arcade cabinets.
+
+117
+00:05:22,712 --> 00:05:25,386
+The result was Donkey Kong, and its hero,
+
+118
+00:05:25,386 --> 00:05:28,452
+a carpenter called Jumpman, would become Mario.
+
+119
+00:05:28,732 --> 00:05:31,631
+Miyamoto's designs famously start from a feeling.
+
+120
+00:05:31,911 --> 00:05:36,124
+His childhood memories of exploring the hills and caves around Kyoto became
+
+121
+00:05:36,124 --> 00:05:37,248
+The Legend of Zelda.
+
+122
+00:05:37,998 --> 00:05:39,910
+There's a line often attributed to him.
+
+123
+00:05:40,190 --> 00:05:42,386
+A delayed game is eventually good,
+
+124
+00:05:42,386 --> 00:05:44,517
+but a rushed game is forever bad.
+
+125
+00:05:44,797 --> 00:05:47,075
+Whether or not he put it exactly that way,
+
+126
+00:05:47,075 --> 00:05:49,135
+Nintendo behaves as if it believes it.
+
+127
+00:05:49,415 --> 00:05:52,666
+Games slip, sometimes for years, until they feel right.
+
+128
+00:05:52,946 --> 00:05:55,141
+Breath of the Wild was delayed repeatedly.
+
+129
+00:05:55,421 --> 00:05:56,328
+So was its sequel.
+
+130
+00:05:56,608 --> 00:05:58,671
+Both were hailed as instant classics.
+
+131
+00:05:59,421 --> 00:06:01,580
+And because Nintendo makes the hardware,
+
+132
+00:06:01,580 --> 00:06:03,092
+it designs the two together.
+
+133
+00:06:03,372 --> 00:06:08,384
+The Nintendo 64's analog stick was developed alongside Super Mario 64.
+
+134
+00:06:08,664 --> 00:06:11,081
+The Wii Remote and Wii Sports grew up together.
+
+135
+00:06:11,361 --> 00:06:15,084
+Competitors build a powerful box and invite the world to fill it.
+
+136
+00:06:15,364 --> 00:06:18,286
+Nintendo builds a toy, and the game that explains it.
+
+137
+00:06:19,036 --> 00:06:23,566
+Over decades, that produced the most valuable stable of characters in the industry.
+
+138
+00:06:23,846 --> 00:06:24,376
+Mario.
+
+139
+00:06:24,656 --> 00:06:25,115
+Zelda.
+
+140
+00:06:25,395 --> 00:06:25,939
+Pokémon.
+
+141
+00:06:26,219 --> 00:06:26,634
+Kirby.
+
+142
+00:06:26,914 --> 00:06:27,775
+Animal Crossing.
+
+143
+00:06:28,055 --> 00:06:30,893
+Smash Bros. Pokémon, which Nintendo co-owns,
+
+144
+00:06:30,893 --> 00:06:34,182
+is the highest-grossing media franchise in history.
+
+145
+00:06:34,462 --> 00:06:39,348
+Mario Kart 8 Deluxe has sold more than sixty million copies on a single console.
+
+146
+00:06:39,628 --> 00:06:41,061
+And these games don't expire.
+
+147
+00:06:41,341 --> 00:06:44,097
+Nintendo rarely discounts its own titles deeply,
+
+148
+00:06:44,097 --> 00:06:48,175
+because a Mario game from six years ago still sells like a new release.
+
+149
+00:06:48,925 --> 00:06:51,321
+This is the part that makes failure survivable.
+
+150
+00:06:51,601 --> 00:06:55,575
+When a Nintendo console flops, the people who bought it still got
+
+151
+00:06:55,575 --> 00:06:57,348
+Mario Kart, Zelda, and Smash.
+
+152
+00:06:57,628 --> 00:07:00,667
+And those franchises walk straight onto the next machine,
+
+153
+00:07:00,667 --> 00:07:02,481
+with their fans right behind them.
+
+154
+00:07:03,231 --> 00:07:03,841
+Part four.
+
+155
+00:07:04,121 --> 00:07:04,847
+The fortress.
+
+156
+00:07:06,197 --> 00:07:09,636
+Which brings us to the least glamorous reason Nintendo survives,
+
+157
+00:07:09,636 --> 00:07:11,194
+and maybe the most important.
+
+158
+00:07:11,474 --> 00:07:11,854
+Money.
+
+159
+00:07:12,134 --> 00:07:16,321
+Hiroshi Yamauchi ran Nintendo like a company that expected bad weather.
+
+160
+00:07:16,601 --> 00:07:21,103
+Unlike its rivals, Nintendo has generally insisted that its hardware sell at
+
+161
+00:07:21,103 --> 00:07:23,473
+a profit, or close to it, from early on.
+
+162
+00:07:23,753 --> 00:07:28,099
+Sony and Microsoft can subsidize a console because they have other huge businesses.
+
+163
+00:07:28,379 --> 00:07:29,259
+Nintendo doesn't.
+
+164
+00:07:29,539 --> 00:07:31,634
+So every machine has to pay its own way.
+
+165
+00:07:31,914 --> 00:07:35,580
+It also keeps an enormous pile of cash and essentially no debt.
+
+166
+00:07:35,860 --> 00:07:38,439
+In good years, critics called that capital lazy.
+
+167
+00:07:38,719 --> 00:07:42,169
+Then the Wii U happened, and the cash did exactly what it was there for.
+
+168
+00:07:42,449 --> 00:07:43,216
+It bought time.
+
+169
+00:07:43,966 --> 00:07:45,630
+Then there's the handheld safety net.
+
+170
+00:07:45,910 --> 00:07:50,014
+For nearly three decades, Nintendo ran two separate hardware lines.
+
+171
+00:07:50,294 --> 00:07:53,597
+When the home console stumbled, the handheld carried the company.
+
+172
+00:07:53,877 --> 00:07:58,620
+The GameCube struggled, but the Game Boy Advance sold over eighty million units.
+
+173
+00:07:58,900 --> 00:08:03,008
+The Wii U flopped, but the 3DS sold more than seventy-five million.
+
+174
+00:08:03,288 --> 00:08:05,176
+There was always a second leg to stand on.
+
+175
+00:08:05,926 --> 00:08:07,208
+Leadership matters here too.
+
+176
+00:08:07,488 --> 00:08:10,168
+In 2011, after the 3DS price cut,
+
+177
+00:08:10,168 --> 00:08:14,228
+president Satoru Iwata cut his own salary in half.
+
+178
+00:08:14,508 --> 00:08:17,389
+When investors later pushed for layoffs, he refused.
+
+179
+00:08:17,669 --> 00:08:20,852
+His argument was that employees who fear being laid off will not
+
+180
+00:08:20,852 --> 00:08:23,488
+make software that impresses people around the world.
+
+181
+00:08:23,768 --> 00:08:27,222
+That kind of decision is only possible if the balance sheet gives
+
+182
+00:08:27,222 --> 00:08:28,284
+you room to make it.
+
+183
+00:08:29,034 --> 00:08:31,330
+Now put all four together, and look at the Switch.
+
+184
+00:08:32,680 --> 00:08:35,776
+By 2017, Nintendo was coming off the Wii U,
+
+185
+00:08:35,776 --> 00:08:38,009
+its worst-selling home console.
+
+186
+00:08:38,289 --> 00:08:41,643
+Smartphones were eating the casual market the DS once owned.
+
+187
+00:08:41,923 --> 00:08:45,333
+Plenty of analysts said it was time to quit hardware and put
+
+188
+00:08:45,333 --> 00:08:48,572
+Mario on the iPhone, the way Sega had gone software-only.
+
+189
+00:08:48,852 --> 00:08:52,379
+Instead, Nintendo merged its two hardware lines into one.
+
+190
+00:08:52,659 --> 00:08:55,026
+The Switch ran on an off-the-shelf mobile chip.
+
+191
+00:08:55,306 --> 00:08:56,905
+Withered technology, again.
+
+192
+00:08:57,185 --> 00:08:59,043
+It was a toy you understood in a second.
+
+193
+00:08:59,323 --> 00:09:00,975
+Pick it up, take it with you,
+
+194
+00:09:00,975 --> 00:09:02,513
+hand a Joy-Con to a friend.
+
+195
+00:09:02,793 --> 00:09:05,152
+And it launched alongside Breath of the Wild,
+
+196
+00:09:05,152 --> 00:09:07,406
+a game that had been allowed to take years.
+
+197
+00:09:08,156 --> 00:09:11,152
+The Switch went on to sell more than a hundred and fifty
+
+198
+00:09:11,152 --> 00:09:14,149
+million units, putting it in the same tier as the DS and
+
+199
+00:09:14,149 --> 00:09:17,092
+the PlayStation 2 among the best-selling consoles ever.
+
+200
+00:09:17,372 --> 00:09:21,772
+Its successor, the Switch 2, launched in June 2025 and sold three
+
+201
+00:09:21,772 --> 00:09:24,345
+and a half million units in four days,
+
+202
+00:09:24,345 --> 00:09:27,256
+the fastest start of any Nintendo hardware.
+
+203
+00:09:27,536 --> 00:09:30,364
+The company that was told to give up on hardware built one
+
+204
+00:09:30,364 --> 00:09:32,998
+of the most successful hardware businesses in history.
+
+205
+00:09:33,748 --> 00:09:38,361
+Nintendo has also learned to take its characters beyond games without giving them away.
+
+206
+00:09:38,641 --> 00:09:39,987
+Theme parks with Universal.
+
+207
+00:09:40,267 --> 00:09:42,655
+The Super Mario Bros. Movie in 2023,
+
+208
+00:09:42,655 --> 00:09:45,773
+which grossed over a billion dollars worldwide.
+
+209
+00:09:46,053 --> 00:09:47,867
+Each of those is, in the end,
+
+210
+00:09:47,867 --> 00:09:49,806
+an advertisement for the games.
+
+211
+00:09:50,556 --> 00:09:52,038
+So is Nintendo invincible?
+
+212
+00:09:52,318 --> 00:09:52,687
+No.
+
+213
+00:09:52,967 --> 00:09:54,574
+Its model has real weaknesses.
+
+214
+00:09:54,854 --> 00:09:58,039
+Every six or seven years, it bets the company on a brand
+
+215
+00:09:58,039 --> 00:10:00,769
+new idea, and some of those ideas will be wrong.
+
+216
+00:10:01,049 --> 00:10:04,071
+The same conservatism that protects it also makes it slow.
+
+217
+00:10:04,351 --> 00:10:07,061
+Its online services have lagged behind for years.
+
+218
+00:10:07,341 --> 00:10:09,043
+And its hard line on prices,
+
+219
+00:10:09,043 --> 00:10:12,142
+emulation, and fan projects costs it real goodwill.
+
+220
+00:10:12,892 --> 00:10:14,320
+But compare the failure modes.
+
+221
+00:10:14,600 --> 00:10:18,811
+Atari collapsed because it flooded the market with low-quality games and lost
+
+222
+00:10:18,811 --> 00:10:19,959
+the trust of players.
+
+223
+00:10:20,239 --> 00:10:24,038
+Sega burned through its cash and its customers' patience with too many
+
+224
+00:10:24,038 --> 00:10:27,348
+machines in too few years, and couldn't absorb the Dreamcast.
+
+225
+00:10:27,628 --> 00:10:32,128
+Most of the companies on that list died because one bad bet consumed everything.
+
+226
+00:10:32,878 --> 00:10:36,501
+Nintendo is built so that a bad bet can't consume everything.
+
+227
+00:10:36,781 --> 00:10:38,248
+Hardware that pays for itself.
+
+228
+00:10:38,528 --> 00:10:39,564
+Cash that buys time.
+
+229
+00:10:39,844 --> 00:10:42,029
+Characters that outlive any console.
+
+230
+00:10:42,309 --> 00:10:45,103
+And a toy maker's instinct to find a new way to play,
+
+231
+00:10:45,103 --> 00:10:47,739
+instead of fighting someone bigger on their terms.
+
+232
+00:10:48,489 --> 00:10:49,464
+That's the real answer.
+
+233
+00:10:49,744 --> 00:10:51,723
+It isn't that Nintendo doesn't fail.
+
+234
+00:10:52,003 --> 00:10:53,032
+It fails all the time.
+
+235
+00:10:53,312 --> 00:10:55,656
+Loudly, publicly, and expensively.
+
+236
+00:10:55,936 --> 00:10:57,936
+It's that the company is designed,
+
+237
+00:10:57,936 --> 00:11:02,526
+very deliberately, to survive its failures long enough to reach the next idea.
+
+238
+00:11:02,806 --> 00:11:05,488
+And every so often, the next idea is the Wii.
+
+239
+00:11:05,768 --> 00:11:06,516
+Or the DS.
+
+240
+00:11:06,796 --> 00:11:07,552
+Or the Switch.
+
+241
+00:11:08,302 --> 00:11:11,904
+A hundred and thirty-seven years after it started selling playing cards,
+
+242
+00:11:11,904 --> 00:11:15,905
+Nintendo is still in the business of making something fun to hold in your hands.
+
+243
+00:11:16,185 --> 00:11:18,769
+Everything else is just how it pays for the next one.
