@@ -1,0 +1,1011 @@
+1
+00:00:00,600 --> 00:00:03,351
+Video games are an industry that eats its kings.
+
+2
+00:00:03,631 --> 00:00:06,209
+Atari defined the home console—and collapsed.
+
+3
+00:00:06,489 --> 00:00:09,560
+Sega challenged the world—and left the hardware business.
+
+4
+00:00:09,840 --> 00:00:16,920
+Entire generations of studios, machines, and billion-dollar strategies have arrived, dominated, and disappeared.
+
+5
+00:00:17,640 --> 00:00:19,290
+But one company keeps coming back.
+
+6
+00:00:19,570 --> 00:00:22,065
+It survived the crash of the American games market.
+
+7
+00:00:22,345 --> 00:00:23,402
+It survived Sony.
+
+8
+00:00:23,682 --> 00:00:25,015
+It survived Microsoft.
+
+9
+00:00:25,295 --> 00:00:27,060
+It survived its own worst console.
+
+10
+00:00:27,340 --> 00:00:31,641
+And it did this while routinely selling less powerful hardware than everyone else.
+
+11
+00:00:32,361 --> 00:00:36,103
+Nintendo began in 1889, making playing cards in Kyoto.
+
+12
+00:00:36,383 --> 00:00:39,449
+More than a century later, it remains one of the most important
+
+13
+00:00:39,449 --> 00:00:41,055
+entertainment companies on Earth.
+
+14
+00:00:41,775 --> 00:00:43,107
+The obvious question is how.
+
+15
+00:00:43,387 --> 00:00:48,224
+The better question is: what does Nintendo understand about play that its competitors keep forgetting?
+
+16
+00:00:53,144 --> 00:00:57,500
+Nintendo's history is often told as a parade of beloved things:
+
+17
+00:00:57,500 --> 00:00:59,989
+Mario, Zelda, Pokémon, the Game Boy,
+
+18
+00:00:59,989 --> 00:01:01,372
+the Wii, the Switch.
+
+19
+00:01:01,652 --> 00:01:02,307
+That is true.
+
+20
+00:01:02,587 --> 00:01:03,723
+It is also incomplete.
+
+21
+00:01:04,443 --> 00:01:08,467
+Nintendo has spent much of its life making decisions that looked wrong at the time.
+
+22
+00:01:08,747 --> 00:01:12,911
+The Game Boy's screen was monochrome when color competitors already existed.
+
+23
+00:01:13,191 --> 00:01:15,518
+The Wii ignored the high-definition arms race.
+
+24
+00:01:15,798 --> 00:01:20,290
+The Switch launched with mobile-class hardware into a world of 4K consoles.
+
+25
+00:01:21,010 --> 00:01:22,810
+And Nintendo has failed—badly.
+
+26
+00:01:23,090 --> 00:01:24,607
+The Virtual Boy was abandoned.
+
+27
+00:01:24,887 --> 00:01:27,319
+The GameCube finished behind its main rivals.
+
+28
+00:01:27,599 --> 00:01:31,007
+The Wii U sold only 13.56 million units.
+
+29
+00:01:31,727 --> 00:01:38,411
+Yet by September 2026, the original Switch family had sold more than 157 million systems.
+
+30
+00:01:38,691 --> 00:01:42,354
+Switch 2 sold almost 20 million in its first fiscal year.
+
+31
+00:01:42,634 --> 00:01:49,281
+Nintendo's financial year ending March 2026 produced 2.31 trillion yen in net sales.
+
+32
+00:01:50,001 --> 00:01:52,527
+This is not a story of uninterrupted genius.
+
+33
+00:01:52,807 --> 00:01:56,032
+It is a story about a company with an unusually effective way
+
+34
+00:01:56,032 --> 00:01:57,672
+of recovering from being wrong.
+
+35
+00:02:00,692 --> 00:02:03,146
+Most technology companies begin with a machine.
+
+36
+00:02:03,426 --> 00:02:05,507
+Nintendo often begins with an action.
+
+37
+00:02:06,227 --> 00:02:08,002
+What if a game continued in your pocket?
+
+38
+00:02:08,282 --> 00:02:09,932
+What if you aimed by moving your hand?
+
+39
+00:02:10,212 --> 00:02:12,758
+What if two people could play by splitting one controller?
+
+40
+00:02:13,038 --> 00:02:15,823
+What if a console could follow you from the television to the
+
+41
+00:02:15,823 --> 00:02:17,193
+train without ending the game?
+
+42
+00:02:17,473 --> 00:02:18,983
+That distinction sounds small.
+
+43
+00:02:19,263 --> 00:02:20,304
+It changes everything.
+
+44
+00:02:21,024 --> 00:02:26,232
+When Nintendo entered electronic toys, its great advantage was not semiconductor expertise.
+
+45
+00:02:26,512 --> 00:02:28,451
+It was the mentality of a toy maker:
+
+46
+00:02:28,451 --> 00:02:30,982
+the product had to explain itself through play.
+
+47
+00:02:31,702 --> 00:02:35,136
+The Game & Watch did not ask people to imagine a portable computer.
+
+48
+00:02:35,416 --> 00:02:37,160
+It put one tiny game in a pocket.
+
+49
+00:02:37,440 --> 00:02:39,728
+Donkey Kong did not sell processing power.
+
+50
+00:02:40,008 --> 00:02:43,631
+It gave players a story they could understand in seconds:
+
+51
+00:02:43,631 --> 00:02:46,810
+a carpenter, a captive, a giant ape, and a ladder.
+
+52
+00:02:47,530 --> 00:02:52,021
+Shigeru Miyamoto's great contribution was not merely inventing characters.
+
+53
+00:02:52,301 --> 00:02:53,832
+It was making mechanics readable.
+
+54
+00:02:54,112 --> 00:02:58,939
+Mario's jump, Link's sword, the ink in Splatoon—each tells the player what
+
+55
+00:02:58,939 --> 00:03:00,047
+the world is for.
+
+56
+00:03:00,767 --> 00:03:05,450
+Nintendo calls much of this “integrated hardware and software.” But the corporate
+
+57
+00:03:05,450 --> 00:03:06,780
+phrase hides the magic.
+
+58
+00:03:07,060 --> 00:03:12,974
+A Nintendo machine is strongest when one physical gesture and one digital response feel inseparable.
+
+59
+00:03:13,694 --> 00:03:17,646
+The DS had two screens because Nintendo wanted new kinds of attention.
+
+60
+00:03:17,926 --> 00:03:21,179
+The Wii had motion controls because it wanted new kinds of players.
+
+61
+00:03:21,459 --> 00:03:23,292
+The Switch had rails, a kickstand,
+
+62
+00:03:23,292 --> 00:03:27,766
+and detachable controllers because it wanted play to move between rooms and people.
+
+63
+00:03:28,486 --> 00:03:31,164
+Competitors asked: how much more can the box do?
+
+64
+00:03:31,444 --> 00:03:35,240
+Nintendo asked: what can the player do now that they could not do before?
+
+65
+00:03:38,260 --> 00:03:43,639
+This philosophy has a name, associated with legendary Nintendo designer Gunpei Yokoi:
+
+66
+00:03:43,639 --> 00:03:46,297
+lateral thinking with withered technology.
+
+67
+00:03:46,577 --> 00:03:52,372
+Use mature, inexpensive, well-understood technology—and combine it in a way nobody expects.
+
+68
+00:03:53,092 --> 00:03:55,641
+The original Game Boy is the perfect example.
+
+69
+00:03:55,921 --> 00:03:58,936
+In 1989, it was not the most advanced handheld.
+
+70
+00:03:59,216 --> 00:04:00,525
+Its screen had no color.
+
+71
+00:04:00,805 --> 00:04:02,868
+It looked almost stubbornly old-fashioned.
+
+72
+00:04:03,148 --> 00:04:05,372
+But older technology meant lower cost,
+
+73
+00:04:05,372 --> 00:04:08,533
+longer battery life, and hardware Nintendo understood.
+
+74
+00:04:08,813 --> 00:04:12,654
+Then Tetris turned those limitations into a mass-market machine.
+
+75
+00:04:13,374 --> 00:04:14,521
+The Wii repeated the trick.
+
+76
+00:04:14,801 --> 00:04:19,569
+Sony and Microsoft competed over high-definition graphics and expensive processors.
+
+77
+00:04:19,849 --> 00:04:24,254
+Nintendo used modest hardware and a motion-sensitive remote that looked familiar to
+
+78
+00:04:24,254 --> 00:04:26,005
+anyone who had used a television.
+
+79
+00:04:26,285 --> 00:04:28,503
+The result was not merely a cheaper console.
+
+80
+00:04:28,783 --> 00:04:29,769
+It was an invitation.
+
+81
+00:04:30,049 --> 00:04:34,665
+Parents, grandparents, and people who would never memorize twelve buttons could understand
+
+82
+00:04:34,665 --> 00:04:37,024
+bowling before the first ball left their hand.
+
+83
+00:04:37,744 --> 00:04:42,443
+This is why judging Nintendo by technical specifications so often misses the point.
+
+84
+00:04:42,723 --> 00:04:47,420
+Power is useful, but power is easily copied and eventually becomes ordinary.
+
+85
+00:04:47,700 --> 00:04:48,964
+A new behavior is harder.
+
+86
+00:04:49,244 --> 00:04:52,554
+It requires hardware, software, interface, price,
+
+87
+00:04:52,554 --> 00:04:54,446
+and timing to land together.
+
+88
+00:04:55,166 --> 00:04:58,325
+Nintendo's innovation is rarely invention from nothing.
+
+89
+00:04:58,605 --> 00:05:03,906
+It is recombination: old components, rearranged around a fresh human experience.
+
+90
+00:05:06,926 --> 00:05:08,139
+Hardware creates a moment.
+
+91
+00:05:08,419 --> 00:05:10,552
+Characters carry that moment across time.
+
+92
+00:05:11,272 --> 00:05:14,957
+Mario is not valuable only because people recognize his face.
+
+93
+00:05:15,237 --> 00:05:16,739
+Mario is a memory machine.
+
+94
+00:05:17,019 --> 00:05:21,338
+For one generation, he is the first secret block in Super Mario
+
+95
+00:05:21,338 --> 00:05:24,218
+Bros. For another, the castle in Mario 64.
+
+96
+00:05:24,498 --> 00:05:26,981
+For another, a family argument on Rainbow Road.
+
+97
+00:05:27,701 --> 00:05:32,685
+Nintendo's franchises survive because they are consistent in feeling but flexible in form.
+
+98
+00:05:32,965 --> 00:05:34,980
+Zelda can be a top-down puzzle,
+
+99
+00:05:34,980 --> 00:05:37,841
+a 3D adventure, a motion-control experiment,
+
+100
+00:05:37,841 --> 00:05:41,482
+or an open world built around physics and improvisation.
+
+101
+00:05:41,762 --> 00:05:44,524
+Mario can be a platformer, a racing game,
+
+102
+00:05:44,524 --> 00:05:47,555
+a party game, a role-playing game, or a film.
+
+103
+00:05:47,835 --> 00:05:49,368
+The character remains familiar.
+
+104
+00:05:49,648 --> 00:05:50,888
+The activity changes.
+
+105
+00:05:51,608 --> 00:05:52,778
+That balance compounds.
+
+106
+00:05:53,058 --> 00:05:55,121
+Each successful game sells the next one.
+
+107
+00:05:55,401 --> 00:06:00,334
+Each console arrives with a library of emotional associations already waiting for it.
+
+108
+00:06:00,614 --> 00:06:03,579
+Parents who once received a Game Boy can give their children a
+
+109
+00:06:03,579 --> 00:06:05,635
+Switch without needing the brand explained.
+
+110
+00:06:06,355 --> 00:06:10,625
+This is also why Nintendo protects its intellectual property so aggressively.
+
+111
+00:06:10,905 --> 00:06:12,688
+The legal posture can feel severe.
+
+112
+00:06:12,968 --> 00:06:18,337
+But strategically, the company is guarding the continuity between generations—the belief that
+
+113
+00:06:18,337 --> 00:06:20,993
+a Mario experience will still feel like Mario.
+
+114
+00:06:21,713 --> 00:06:24,465
+And the loop now extends beyond consoles:
+
+115
+00:06:24,465 --> 00:06:30,640
+films, theme parks, stores, museums, and merchandise create more doors into the same worlds.
+
+116
+00:06:30,920 --> 00:06:34,221
+Nintendo is no longer using games to support hardware alone.
+
+117
+00:06:34,501 --> 00:06:38,833
+It is using hardware, games, and physical experiences to keep a universe
+
+118
+00:06:38,833 --> 00:06:40,699
+of characters culturally alive.
+
+119
+00:06:43,719 --> 00:06:46,514
+But this system can fail when the action is not clear.
+
+120
+00:06:46,794 --> 00:06:48,455
+The Wii U had a controller with a screen.
+
+121
+00:06:48,735 --> 00:06:52,976
+It offered asymmetric multiplayer, off-TV play, and clever ideas.
+
+122
+00:06:53,256 --> 00:06:55,550
+But the name sounded like an accessory for the Wii.
+
+123
+00:06:55,830 --> 00:06:59,030
+The marketing struggled to explain why the second screen mattered.
+
+124
+00:06:59,310 --> 00:07:00,630
+Third-party support weakened.
+
+125
+00:07:00,910 --> 00:07:02,469
+Software arrived too slowly.
+
+126
+00:07:03,189 --> 00:07:05,407
+The Wii had been understood in a single swing.
+
+127
+00:07:05,687 --> 00:07:07,192
+The Wii U required a paragraph.
+
+128
+00:07:07,912 --> 00:07:11,317
+It became Nintendo's worst-selling home console,
+
+129
+00:07:11,317 --> 00:07:13,090
+with 13.56 million units.
+
+130
+00:07:13,370 --> 00:07:16,140
+In the fiscal year ending March 2014,
+
+131
+00:07:16,140 --> 00:07:18,835
+Nintendo reported an operating loss.
+
+132
+00:07:19,555 --> 00:07:23,993
+This is the point where a conventional technology company might retreat toward
+
+133
+00:07:23,993 --> 00:07:26,782
+the industry standard: build a more powerful box,
+
+134
+00:07:26,782 --> 00:07:30,025
+copy the successful interface, compete on familiar terms.
+
+135
+00:07:30,305 --> 00:07:32,095
+Nintendo did something more revealing.
+
+136
+00:07:32,375 --> 00:07:35,581
+It kept the core insight and discarded the confusing product.
+
+137
+00:07:36,301 --> 00:07:37,791
+Off-TV play had been useful.
+
+138
+00:07:38,071 --> 00:07:40,771
+A personal screen near the television had been useful.
+
+139
+00:07:41,051 --> 00:07:44,689
+Local multiplayer built around unusual controllers had been useful.
+
+140
+00:07:44,969 --> 00:07:47,824
+The problem was that these ideas were trapped in a machine that
+
+141
+00:07:47,824 --> 00:07:48,958
+could not leave the room.
+
+142
+00:07:49,678 --> 00:07:51,299
+So Nintendo removed the room.
+
+143
+00:07:54,319 --> 00:07:56,296
+The Switch was not a rejection of the Wii U.
+
+144
+00:07:56,576 --> 00:07:58,809
+It was the Wii U's best idea, completed.
+
+145
+00:07:59,089 --> 00:07:59,699
+One screen.
+
+146
+00:07:59,979 --> 00:08:01,514
+Two detachable controllers.
+
+147
+00:08:01,794 --> 00:08:05,186
+A dock that made the transition to television almost invisible.
+
+148
+00:08:05,466 --> 00:08:09,491
+And a reveal trailer that explained the entire product without a technical lecture.
+
+149
+00:08:10,211 --> 00:08:10,827
+Play at home.
+
+150
+00:08:11,107 --> 00:08:11,969
+Lift the console.
+
+151
+00:08:12,249 --> 00:08:12,877
+Keep playing.
+
+152
+00:08:13,157 --> 00:08:14,023
+Share a controller.
+
+153
+00:08:14,303 --> 00:08:14,922
+Play together.
+
+154
+00:08:15,642 --> 00:08:19,368
+The machine unified Nintendo's handheld and home-console development.
+
+155
+00:08:19,648 --> 00:08:22,680
+Instead of splitting major games between two platforms,
+
+156
+00:08:22,680 --> 00:08:25,270
+Nintendo could concentrate its software on one.
+
+157
+00:08:25,990 --> 00:08:28,161
+Then came the crucial part: the games.
+
+158
+00:08:28,441 --> 00:08:31,698
+The Legend of Zelda: Breath of the Wild made the launch feel
+
+159
+00:08:31,698 --> 00:08:32,838
+like a new beginning.
+
+160
+00:08:33,118 --> 00:08:36,653
+Mario Kart 8 Deluxe turned an overlooked Wii U game into one
+
+161
+00:08:36,653 --> 00:08:39,481
+of the best-selling games in Nintendo's history.
+
+162
+00:08:39,761 --> 00:08:44,333
+Animal Crossing: New Horizons arrived at the exact moment millions of people
+
+163
+00:08:44,333 --> 00:08:46,559
+needed a gentle place to be together.
+
+164
+00:08:47,279 --> 00:08:50,001
+The Switch did not win because it had the best graphics.
+
+165
+00:08:50,281 --> 00:08:53,400
+It won because the proposition remained useful for years:
+
+166
+00:08:53,400 --> 00:08:55,370
+this is your console, your handheld,
+
+167
+00:08:55,370 --> 00:08:58,543
+and sometimes the thing you hand to the person beside you.
+
+168
+00:08:59,263 --> 00:09:04,221
+By September 2026, Switch hardware sales had passed 157 million,
+
+169
+00:09:04,221 --> 00:09:07,630
+with nearly 1.6 billion software units sold.
+
+170
+00:09:08,350 --> 00:09:13,415
+That recovery—from 13.56 million Wii U systems to more than 157 million
+
+171
+00:09:13,415 --> 00:09:18,124
+Switch systems—is not evidence that Nintendo never makes mistakes.
+
+172
+00:09:18,404 --> 00:09:22,355
+It is evidence that Nintendo knows how to salvage an insight from a mistake.
+
+173
+00:09:25,375 --> 00:09:27,469
+There is another reason Nintendo survives,
+
+174
+00:09:27,469 --> 00:09:29,613
+and it is harder to place in a spreadsheet.
+
+175
+00:09:29,893 --> 00:09:31,482
+Nintendo designs for delight.
+
+176
+00:09:31,762 --> 00:09:33,101
+Not happiness as branding.
+
+177
+00:09:33,381 --> 00:09:35,322
+Delight as a system of feedback:
+
+178
+00:09:35,322 --> 00:09:38,475
+the sound of a coin, the pause before a chest opens,
+
+179
+00:09:38,475 --> 00:09:41,022
+the tiny animation that rewards curiosity,
+
+180
+00:09:41,022 --> 00:09:45,267
+the possibility that a piano might secretly be a character with teeth.
+
+181
+00:09:45,987 --> 00:09:47,946
+These details have economic value.
+
+182
+00:09:48,226 --> 00:09:52,311
+A game built around spectacle can become dated when better spectacle arrives.
+
+183
+00:09:52,591 --> 00:09:54,782
+A game built around a satisfying jump,
+
+184
+00:09:54,782 --> 00:09:59,280
+a readable rule, or the pleasure of discovery can remain playable for decades.
+
+185
+00:10:00,000 --> 00:10:04,108
+Nintendo's best software is polished around the player's body and attention.
+
+186
+00:10:04,388 --> 00:10:06,514
+Controls are tested until they disappear.
+
+187
+00:10:06,794 --> 00:10:09,393
+Levels teach without stopping to announce the lesson.
+
+188
+00:10:09,673 --> 00:10:13,268
+Failure is often funny enough to make another attempt feel inviting.
+
+189
+00:10:13,988 --> 00:10:18,476
+That accessibility expands the audience without necessarily flattening the design.
+
+190
+00:10:18,756 --> 00:10:21,033
+A child can finish a lap in Mario Kart.
+
+191
+00:10:21,313 --> 00:10:23,922
+An expert can spend years mastering its lines.
+
+192
+00:10:24,202 --> 00:10:26,053
+A newcomer can wander through Hyrule.
+
+193
+00:10:26,333 --> 00:10:29,727
+A speedrunner can bend its physics into a different game entirely.
+
+194
+00:10:30,447 --> 00:10:33,706
+“Fun for everyone” is easy to dismiss as a slogan.
+
+195
+00:10:33,986 --> 00:10:37,063
+At Nintendo, it is closer to an engineering constraint.
+
+196
+00:10:40,083 --> 00:10:43,978
+None of this makes Nintendo infallible—or universally benevolent.
+
+197
+00:10:44,258 --> 00:10:47,417
+Its online services have often lagged behind competitors.
+
+198
+00:10:47,697 --> 00:10:51,837
+Its approach to preservation can make older games difficult to access legally.
+
+199
+00:10:52,117 --> 00:10:54,268
+Hardware experiments create casualties.
+
+200
+00:10:54,548 --> 00:10:58,777
+Fans and creators have criticized its litigation and strict control of its work.
+
+201
+00:10:59,057 --> 00:11:02,545
+And even beloved products can carry frustrating design flaws.
+
+202
+00:11:03,265 --> 00:11:06,149
+Nintendo's strategy also produces volatility.
+
+203
+00:11:06,429 --> 00:11:09,653
+When an unusual machine connects, it can expand the market.
+
+204
+00:11:09,933 --> 00:11:12,109
+When it does not, there is no safe middle.
+
+205
+00:11:12,389 --> 00:11:15,460
+The same independence that creates the Wii can create the Wii U.
+
+206
+00:11:16,180 --> 00:11:17,579
+And the industry is changing.
+
+207
+00:11:17,859 --> 00:11:19,456
+Development costs are rising.
+
+208
+00:11:19,736 --> 00:11:22,209
+Mobile games compete for every idle minute.
+
+209
+00:11:22,489 --> 00:11:27,520
+Younger players gather inside persistent platforms that behave less like individual games
+
+210
+00:11:27,520 --> 00:11:29,102
+and more like social spaces.
+
+211
+00:11:29,822 --> 00:11:32,446
+Nintendo cannot survive on nostalgia alone.
+
+212
+00:11:32,726 --> 00:11:36,702
+Nostalgia is powerful, but it is a diminishing resource if a new
+
+213
+00:11:36,702 --> 00:11:39,497
+generation does not form memories of its own.
+
+214
+00:11:39,777 --> 00:11:44,593
+The real test of each Nintendo platform is therefore not whether old players return.
+
+215
+00:11:44,873 --> 00:11:47,949
+It is whether new players find an experience they will still care
+
+216
+00:11:47,949 --> 00:11:49,274
+about twenty years from now.
+
+217
+00:11:52,294 --> 00:11:56,021
+So why has Nintendo endured where competitors shrank or disappeared?
+
+218
+00:11:56,301 --> 00:11:58,912
+Because most advantages in technology decay.
+
+219
+00:11:59,192 --> 00:12:01,116
+The fastest processor becomes cheap.
+
+220
+00:12:01,396 --> 00:12:03,462
+A manufacturing edge becomes standard.
+
+221
+00:12:03,742 --> 00:12:05,600
+A distribution channel gets replaced.
+
+222
+00:12:05,880 --> 00:12:07,032
+A hit game is copied.
+
+223
+00:12:07,752 --> 00:12:10,994
+Nintendo built three advantages that reinforce one another.
+
+224
+00:12:11,274 --> 00:12:14,608
+First, a design culture that searches for new forms of play.
+
+225
+00:12:14,888 --> 00:12:18,543
+Second, control over the hardware and software needed to deliver them.
+
+226
+00:12:18,823 --> 00:12:23,264
+Third, characters that make each new experiment feel familiar enough to try.
+
+227
+00:12:23,984 --> 00:12:26,681
+Remove any one of these and the system weakens.
+
+228
+00:12:26,961 --> 00:12:30,064
+Strange hardware without great software becomes a gimmick.
+
+229
+00:12:30,344 --> 00:12:34,790
+Great software without control of the platform becomes dependent on somebody else's rules.
+
+230
+00:12:35,070 --> 00:12:38,501
+Famous characters without reinvention become museum pieces.
+
+231
+00:12:39,221 --> 00:12:43,631
+Nintendo has all three—and more than a century of institutional memory about
+
+232
+00:12:43,631 --> 00:12:45,952
+what happens when a toy stops being fun.
+
+233
+00:12:48,972 --> 00:12:52,544
+Nintendo began with paper, ink, and a deck of cards.
+
+234
+00:12:52,824 --> 00:12:56,578
+That origin matters—not because playing cards predicted video games,
+
+235
+00:12:56,578 --> 00:12:59,559
+but because they taught the company its oldest lesson.
+
+236
+00:13:00,279 --> 00:13:01,976
+The object is not the entertainment.
+
+237
+00:13:02,256 --> 00:13:05,283
+The entertainment is what happens between people,
+
+238
+00:13:05,283 --> 00:13:07,321
+rules, imagination, and surprise.
+
+239
+00:13:08,041 --> 00:13:09,037
+Consoles change.
+
+240
+00:13:09,317 --> 00:13:10,260
+Screens change.
+
+241
+00:13:10,540 --> 00:13:11,780
+Business models change.
+
+242
+00:13:12,060 --> 00:13:15,295
+The industry repeatedly mistakes those changes for the point.
+
+243
+00:13:15,575 --> 00:13:17,959
+Nintendo's history suggests something simpler.
+
+244
+00:13:18,679 --> 00:13:22,175
+Technology matters most when it disappears into a moment:
+
+245
+00:13:22,175 --> 00:13:26,223
+a perfectly timed jump, a discovery you were not supposed to find,
+
+246
+00:13:26,223 --> 00:13:28,064
+a race lost by one blue shell,
+
+247
+00:13:28,064 --> 00:13:31,314
+a controller handed to someone who was only watching.
+
+248
+00:13:32,034 --> 00:13:34,914
+That is why Nintendo can look outdated and arrive early.
+
+249
+00:13:35,194 --> 00:13:37,727
+Why it can fail dramatically and return stronger.
+
+250
+00:13:38,007 --> 00:13:42,188
+Why a company founded in 1889 can still make the future feel playful.
+
+251
+00:13:42,908 --> 00:13:46,444
+Nintendo does not endure because it always knows what comes next.
+
+252
+00:13:46,724 --> 00:13:50,793
+It endures because, when the industry forgets why people play,
+
+253
+00:13:50,793 --> 00:13:53,484
+Nintendo has spent 137 years remembering.
